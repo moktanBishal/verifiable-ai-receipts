@@ -1,1 +1,1 @@
-"# verifiable-ai-receipts" 
+"Cryptographic provenance for AI" 
